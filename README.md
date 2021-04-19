@@ -11,5 +11,5 @@ Esta fórmula genera los pares (220, 284), (1184, 1210), (17296, 18416) y (93635
 
 https://es.wikipedia.org/wiki/N%C3%BAmeros_amigos#:~:text=Dos%20n%C3%BAmeros%20amigos%20son%20dos,n%2C%20sin%20incluir%20a%20n.
 
-Java 12
-NetBeans
+Java 12.
+NetBeans.
